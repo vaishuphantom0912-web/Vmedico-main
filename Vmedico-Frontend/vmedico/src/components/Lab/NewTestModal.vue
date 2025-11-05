@@ -81,7 +81,7 @@
               <!-- Base Price -->
               <div>
                 <label class="block text-sm font-medium text-gray-700 mb-2">
-                  Base Price ($)
+                  Base Price (Rs.)
                 </label>
                 <input
                   v-model="formData.basePrice"
